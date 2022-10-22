@@ -1,1 +1,4 @@
 # Linear-Regression
+
+
+THIS PROJECT IS PERTAINING TO SO AND SO...
